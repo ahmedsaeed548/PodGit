@@ -3,6 +3,7 @@ PODS:
     - Charts/Core (= 4.0.3)
   - Charts/Core (4.0.3):
     - SwiftAlgorithms (~> 1.0)
+  - CryptoSwift (1.5.1)
   - InputBarAccessoryView (5.5.0):
     - InputBarAccessoryView/Core (= 5.5.0)
   - InputBarAccessoryView/Core (5.5.0)
@@ -13,12 +14,14 @@ PODS:
 
 DEPENDENCIES:
   - Charts
+  - CryptoSwift
   - MessageKit
   - SnapKit
 
 SPEC REPOS:
   trunk:
     - Charts
+    - CryptoSwift
     - InputBarAccessoryView
     - MessageKit
     - SnapKit
@@ -26,11 +29,12 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   Charts: d959d6723c8eedfdd0735dfc28cb0a71762ac4d9
+  CryptoSwift: c4f2debceb38bf44c80659afe009f71e23e4a082
   InputBarAccessoryView: 1d7b0a672b36e370f01f264b3907ef39d03328e3
   MessageKit: a1ba0c69ebead94029867853eb44dd05b9b3f453
   SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
   SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
 
-PODFILE CHECKSUM: 9d15b1655e7c8675338238694b49fe220d2ed681
+PODFILE CHECKSUM: 7902dea2ea50819d44ad15c77d126230341cc41c
 
 COCOAPODS: 1.11.3

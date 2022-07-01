@@ -9,5 +9,6 @@ target 'PodGit' do
   pod 'MessageKit'
  pod 'Charts'
    pod 'SnapKit'
+ pod 'CryptoSwift'
 
 end
