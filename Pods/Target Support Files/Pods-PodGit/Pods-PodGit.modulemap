@@ -1,0 +1,6 @@
+framework module Pods_PodGit {
+  umbrella header "Pods-PodGit-umbrella.h"
+
+  export *
+  module * { export * }
+}
